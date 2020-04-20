@@ -1,4 +1,4 @@
-# neuropath
+# Neuropathological imaging analysis
 
 The Matlab multicrop.m script select six random regions of interest (ROI) with the same size from a delimited area. Then, the Matlab Iba1.m script is used to quantify densities for Iba1 staining in each ROI previously generated with the multicrop.m script.
 
